@@ -1,12 +1,12 @@
 {
   "chat": [
-    { "phone": "+91 8458835494"},
-    { "phone": "+91 7000268870"}
-  ],
-  "conversation": [
     {
-      "phone":"8458835494",
-      "messages":[]
+      "phone": "+91 8458835494",
+      "conversation": []
+    },
+    {
+      "phone": "+91 7000268870",
+      "conversation": []
     }
   ]
 }
