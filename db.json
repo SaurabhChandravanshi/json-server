@@ -2,15 +2,15 @@
   "chat": [
     {
       "phone": "+91 8458835494",
-      "conversation": [{"message":"Hello +91 8458835494", "isOutgoing":true}]
+      "conversation": [{"message":"Hello Saurabh", "isOutgoing":true}]
     },
     {
       "phone": "+91 7000268870",
-      "conversation": [{"message":"Hello +91 7000268870", "isOutgoing":true}]
+      "conversation": [{"message":"Hey Siri", "isOutgoing":true}]
     },
     {
       "phone": "+91 6264568797",
-      "conversation": [{"message":"Hello +91 6264568797", "isOutgoing":true}]
+      "conversation": [{"message":"Hii John", "isOutgoing":true}]
     }
   ]
 }
